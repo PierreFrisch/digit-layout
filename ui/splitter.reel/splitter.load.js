@@ -1,0 +1,1 @@
+montageDefine("8ec0de7","ui/splitter.reel/splitter",{dependencies:["montage/ui/component"],factory:function(e,t){var n=e("montage/ui/component").Component;t.Splitter=n.specialize({constructor:{value:function(){this.super()}}})}});

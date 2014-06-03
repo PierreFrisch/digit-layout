@@ -1,0 +1,1 @@
+montageDefine("8ec0de7","ui/list.reel/list",{dependencies:["montage/ui/component"],factory:function(e,t){var i=e("montage/ui/component").Component;t.List=i.specialize({constructor:{value:function(){this.super()}}})}});

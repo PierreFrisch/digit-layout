@@ -1,0 +1,1 @@
+montageDefine("8ec0de7","ui/bar.reel/bar",{dependencies:["montage/ui/component"],factory:function(e,t){var n=e("montage/ui/component").Component;t.Bar=n.specialize({constructor:{value:function(){this.super()}}})}});
